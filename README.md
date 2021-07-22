@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shahzeb Ihsan
 - 👀 I’m interested in Embedded Systems, Machine Learning, Virtualization
-- 🌱 I’m currently learning Vulkan, ML, Xen
+- 🌱 I’m currently learning Vulkan, ML, Xen Hypervisor and Fuschia OS
+- 🌱...on the backburner (for now): Rust, Golang, Kotlin
 - 💞️ I’m looking to collaborate on creating an aftermarket HMI solution for older cars
 - 📫 How to reach me ...
