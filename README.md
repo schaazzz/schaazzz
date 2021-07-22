@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shahzeb Ihsan
+- 👀 I’m interested in Embedded Systems, Machine Learning, Virtualization
+- 🌱 I’m currently learning Vulkan, ML, Xen
+- 💞️ I’m looking to collaborate on creating an aftermarket HMI solution for older cars
+- 📫 How to reach me ...
